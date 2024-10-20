@@ -55,6 +55,14 @@ public class examen01 {
 
                 }
             }
+        }else {
+
         }
+
+        printf("Tu aumento es: " + aumento);
+        printf("tu antiguedad es: " + antiguedad);
+        printf("Tu salario es sin aumento es: " + salario);
+        printf("Tu salario total es:" + salatotal);
+
     }
 }
