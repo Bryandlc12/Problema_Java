@@ -47,6 +47,14 @@ public class examen01 {
                 }
             }
 
-        } 
+        } else if (puesto.equals == c) {
+            if (antiguedad <= 8) {
+                if (antiguedad <= 12) {
+                    salatotal = salario * 25 / 100;
+                    aumento = salatotal;
+
+                }
+            }
+        }
     }
 }
