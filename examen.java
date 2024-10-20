@@ -6,6 +6,15 @@ public class examen01 {
         double salario = 0;
         int antiguedad = 0;
         double aumento, salatotal;
-      
+      if (puesto.equals == a) {
+            if (antiguedad >= 1) {
+                if (antiguedad <= 3) {
+                    // 10%
+                    salatotal = salario * 10 / 100;
+                    aumento = salatotal;
+                }
+            }
+
+        }
     }
 }
